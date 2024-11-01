@@ -1,0 +1,17 @@
+
+#calculator_product_data h4{
+    margin-left: 10px;
+}
+
+#calculator_product_data span{
+    color: #0e90d2;
+}
+
+#calculator_product_data .attach_calculator{
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#calculator_product_data .remove_calculator{
+    margin-left: 10px;
+}
